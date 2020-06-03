@@ -39,7 +39,7 @@ toJSONSchema({ my: { json: { value: 1 }}})
 
 Additionally, a transformation callback can be passed to transform any node.
 ```js
-import toJSONSchema 'f-schema'
+import toJSONSchema from 'f-schema'
 
 const onProcess = node => ({ ...node, required: 'true' })
 toJSONSchema({ my: { json: { value: 1 }}}, { onProcess })
