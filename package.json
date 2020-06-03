@@ -1,6 +1,6 @@
 {
   "name": "f-schema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple JSON to JSON Schema generator",
   "main": "index.js",
   "author": "Cory James <james.cory.m@gmail.com>",
