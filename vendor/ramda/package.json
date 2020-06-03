@@ -1,0 +1,34 @@
+{
+  "author": "Scott Sauyet <scott@sauyet.com> (scott.sauyet.com)",
+  "contributors": [
+    {
+      "name": "Michael Hurley",
+      "email": "mh@buzzdecafe.com",
+      "web": "http://buzzdecafe.com"
+    },
+    {
+      "name": "Scott Sauyet",
+      "email": "scott@sauyet.com",
+      "web": "http://fr.umio.us"
+    },
+    {
+      "name": "David Chambers",
+      "email": "dc@davidchambers.me",
+      "web": "http://davidchambers.me"
+    },
+    {
+      "name": "Graeme Yeates",
+      "email": "yeatesgraeme@gmail.com",
+      "web": "https://github.com/megawac"
+    }
+  ],
+  "name": "ramda",
+  "version": "0.26.1",
+  "description": "A partial build of Ramda for simple-json-schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://ramdajs.com/",
+  "license": "MIT"
+}

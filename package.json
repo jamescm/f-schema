@@ -1,0 +1,17 @@
+{
+  "name": "f-schema",
+  "version": "1.0.0",
+  "description": "A simple JSON to JSON Schema generator",
+  "main": "index.js",
+  "author": "Cory James <james.cory.m@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamescm/f-schema.git"
+  },
+  "homepage": "https://github.com/jamescm/f-schema",
+  "issues": "https://github.com/jamescm/f-schema/issues",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "file:vendor/ramda"
+  }
+}
